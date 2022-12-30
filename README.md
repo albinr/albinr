@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @albinr.
-- 👀 I’m interested in Front End Webbdevelopment.
+- 👋 Hi, I’m @albinr / Albin Ryberg.
+- 👀 I’m interested in Webbdevelopment, Video Games and Skiing.
 - 🌱 I’m currently learning React.js and GraphQl.
-- 📫 How to reach me albin@rybergs.net.
+- 📫 How do you reach me? Send me an E-mail at (albin@rybergs.net).
