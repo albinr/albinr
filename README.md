@@ -1,3 +1,6 @@
+
+# About me
+
 - 👋 Hi, I’m @albinr / Albin Ryberg.
 - 👀 I’m interested in Webbdevelopment, Video Games and Skiing.
 - 🌱 I’m currently learning React.js and GraphQl.
